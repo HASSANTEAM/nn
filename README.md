@@ -1,8 +1,8 @@
 
 
-* 🇸🇦 ┇ yousef labban*
 
-git clone https://github.com/Yosef-lbban/nn ; cd nn ; chmod +x * ;screen ./ins.sh run
+
+git clone https://github.com/HASSANTEAM/nn ; cd nn ; chmod +x * ;screen ./ins.sh run
 
 المكاتب 
 
